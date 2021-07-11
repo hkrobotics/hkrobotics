@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on [TRF Website](https://github.com/pyANSH/TRF-Website)
-- ✉️ &nbsp;You can email me at kumarhemant24jan@gmail.com. I'll try to respond as soon as possible!
+- 📬 &nbsp;You can email me at kumarhemant24jan@gmail.com. I'll try to respond as soon as possible!
 - 📄 &nbsp;You can check my [Resume](https://bit.ly/hkresume2021) for more details about work experience.
 
 
