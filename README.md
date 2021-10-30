@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <!--testing area-->
- [![Hemant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hkrobotics&theme=xcode)](https://git.io/praveenscience)
+ [![Hemant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hkrobotics&theme=xcode)](https://github.com/hkrobotics)
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hkrobotics&show_icons=true&theme=dark&locale=en" alt="hkrobotics">
