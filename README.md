@@ -84,7 +84,7 @@ Here are some ideas to get you started:
  -->
 
 ![](https://komarev.com/ghpvc/?username=hkrobotics&color=ff69b4)&nbsp;
-![](https://img.shields.io/github/followers/hkrobotics?style=plastic/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![](https://img.shields.io/github/followers/hkrobotics?style=plastic/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
 ![](https://img.shields.io/github/license/hkrobotics/hkrobotics?color=brightgreen)&nbsp;
 ![](https://img.shields.io/github/last-commit/hkrobotics/hkrobotics?color=orange)&nbsp;
  
