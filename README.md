@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 💻&nbsp;About Me
 - 🔭 I’m currently working on [TRF Website](https://the-royal-flush.github.io/TRF)
 - 📬 &nbsp;You can email me at kumarhemant24jan@gmail.com. I'll try to respond as soon as possible!
 - 📄 &nbsp;You can check my [Resume](https://bit.ly/hkresume2021) for more details about work experience.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👻Connect with me:</h3>
 
 <a href="https://hkrobotics.github.io/hkrobotics/" target="_blank"><img align="left" alt="aakarsh.me" width="32px" src="https://img.icons8.com/fluent/96/000000/domain.png" /></a>
 <a href="https://linkedin.com/in/hkrobotics" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="32px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
