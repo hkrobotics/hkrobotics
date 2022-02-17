@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">👻 Connect with me:</h3>
 
-<a href="https://hkrobotics.github.io" target="_blank"><img align="left" alt="hkrobotics.github.io" width="32px" src="https://img.icons8.com/fluent/96/000000/domain.png" /></a>
+<!-- <a href="https://hkrobotics.github.io" target="_blank"><img align="left" alt="hkrobotics.github.io" width="32px" src="https://img.icons8.com/fluency/96/000000/resume-website.png"/></a> -->
+<a href="https://www.google.com/search?q=hkrobotics" target="_blank"><img align="left" alt="hkrobotics.github.io" width="32px" src="https://img.icons8.com/fluency/96/000000/resume-website.png"/></a>
 <a href="https://linkedin.com/in/hkrobotics" target="_blank"><img align="left" alt="hkrobotics | LinkedIn" width="32px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
-<a href="https://instagram.com/hkrobotics" target="_blank"><img align="left" alt="hkrobotics | Instagram" width="32px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
-<a href="https://twitter.com/hkrobotics" target="_blank"><img align="left" alt="hkrobotics | Twitter" width="32px" src="https://img.icons8.com/fluent/96/000000/twitter.png" />
+<a href="https://instagram.com/hkrobotics" target="_blank"><img align="left" alt="hkrobotics | Instagram" width="32px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png" />
+<a href="https://twitter.com/hkrobotics" target="_blank"><img align="left" alt="hkrobotics | Twitter" width="32px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />
 <br>
 
 
