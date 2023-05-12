@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 💻&nbsp;About Me
 - 🔭 I’m currently working at [Wylo](https://wyloapp.com/)
 - 📬 &nbsp;You can email me at kumarhemant24jan@gmail.com. I'll try to respond as soon as possible!
-- 📄 &nbsp;You can check my [Resume](https://bit.ly/hkresume2021) for more details about work experience.
+- 📄 &nbsp;You can check my [Resume](https://bit.ly/hkresume2023v2) for more details about work experience.
 
 
 <h3 align="left">👻 Connect with me:</h3>
