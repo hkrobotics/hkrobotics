@@ -7,7 +7,7 @@
 </p>
 
 ### 💻&nbsp;About Me
-- 🔭 Currently @ [Wylo](https://wyloapp.com/) - Weaving Bugs, Passion, and Code with Care 🐞❤️🧑‍💻
+- 🔭 Currently [@Wylo](https://wyloapp.com/) - Weaving Bugs, Passion, and Code with Care 🐞❤️🧑‍💻
 - 📬 &nbsp;You can email me at kumarhemant24jan@gmail.com. I'll try to respond as soon as possible!
 - 📄 &nbsp;Check my [Resume](https://bit.ly/hkresume2023v2) for work experience.
 
