@@ -9,11 +9,11 @@
 ### 💻&nbsp;About Me
 - 🔭 Currently [@Wylo](https://wyloapp.com/) - Weaving Bugs, Passion, and Code with Care 🐞❤️🧑‍💻
 - 📬 &nbsp;You can email me at kumarhemant24jan@gmail.com. I'll try to respond as soon as possible!
-- 📄 &nbsp;Check my [Resume](https://bit.ly/hkresume2023v2) for work experience.
 
 ### 🛠 &nbsp;Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; <!-- Added Next.js -->
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; <!-- Added TypeScript -->
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp; <!-- Added Vite -->
