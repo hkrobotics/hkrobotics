@@ -2,15 +2,15 @@
 <h3 align="center">Lead Mobile Engineer | React Native | 0→1 Apps | iOS + Android</h3>
 
 <p align="center">
-  <a href="https://twitter.com/hkrobotics" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/hkrobotics?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://x.com/hkumarDev" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/hkumarDev?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://hkumar.is-a.dev/">Portfolio</a> •
-  <a href="https://linkedin.com/in/hkrobotics">LinkedIn</a> •
-  <a href="https://twitter.com/hkrobotics">Twitter</a> •
+  <a href="https://www.linkedin.com/in/hkumardev/">LinkedIn</a> •
+  <a href="https://x.com/hkumarDev">Twitter</a> •
   <a href="mailto:kumarhemant24jan@gmail.com">Email</a> •
   <a href="https://drive.google.com/file/d/1Az1Opn7orrgALlyRiGsAr9J-adqK8zdR/view?usp=sharing">Resume</a>
 </p>
@@ -69,9 +69,9 @@
 
 ### 👻 Connect with me
 - Portfolio: https://hkumar.is-a.dev/
-- LinkedIn: https://linkedin.com/in/hkrobotics
+- LinkedIn: https://www.linkedin.com/in/hkumardev/
 - Instagram: https://instagram.com/hkrobotics
-- Twitter: https://twitter.com/hkrobotics
+- Twitter: https://x.com/hkumarDev
 
 ---
 
