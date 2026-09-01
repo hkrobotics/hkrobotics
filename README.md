@@ -70,7 +70,7 @@
 ### 👻 Connect with me
 - Portfolio: https://hkumar.is-a.dev/
 - LinkedIn: https://www.linkedin.com/in/hkumardev/
-- Instagram: https://instagram.com/hkrobotics
+- Instagram: https://instagram.com/hkumar.dev
 - Twitter: https://x.com/hkumarDev
 
 ---
