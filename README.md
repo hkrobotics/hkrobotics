@@ -21,8 +21,19 @@ Software Engineer with 4+ years of experience building production software acros
 - 🤖 Introducing **AI-assisted engineering workflows** across the team
 - 📍 New Delhi, India · remote (IST)
 
-> Most of my day-to-day work lives in private company repositories, so the contribution graph here only shows part of it.
-> The combined GitLab + GitHub activity is on **[hkumar.dev](https://hkumar.dev/?view=v3)**.
+### 📈 Contributions
+
+Most of my day-to-day work lives in private company repositories on GitLab, so GitHub's own graph only shows part of it. Here's the combined picture, updated daily:
+
+<p align="center">
+  <a href="https://hkumar.dev/?view=v3">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://hkumar.dev/contributions.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://hkumar.dev/contributions-light.svg">
+      <img alt="Combined GitLab + GitHub contributions over the last 12 months" src="https://hkumar.dev/contributions-light.svg" width="100%">
+    </picture>
+  </a>
+</p>
 
 ---
 
