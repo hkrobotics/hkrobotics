@@ -1,89 +1,68 @@
 <h1 align="center">Hemant Kumar</h1>
-<h3 align="center">Lead Mobile Engineer | React Native | 0→1 Apps | iOS + Android</h3>
+<h3 align="center">Software Engineer · React Native · iOS + Android · Full-stack</h3>
 
 <p align="center">
-  <a href="https://x.com/hkumarDev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/hkumarDev?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hkumar.is-a.dev/">Portfolio</a> •
+  <a href="https://hkumar.dev/">Portfolio</a> •
+  <a href="https://resume.hkumar.dev/">Resume</a> •
   <a href="https://www.linkedin.com/in/hkumardev/">LinkedIn</a> •
-  <a href="https://x.com/hkumarDev">Twitter</a> •
-  <a href="mailto:kumarhemant24jan@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1Az1Opn7orrgALlyRiGsAr9J-adqK8zdR/view?usp=sharing">Resume</a>
+  <a href="https://x.com/hkumarDev">X / Twitter</a>
 </p>
 
 ---
 
-### 💻 About Me
-- 🔭 Lead Mobile Engineer focused on shipping production-grade **React Native** apps from scratch (0→1).
-- 📍 Based in **New Delhi, India (IST)**.
-- 🧩 Recently shipped: **React Native New Architecture migration (Fabric / TurboModules)**.
-- 📬 Email: **kumarhemant24jan@gmail.com**
+### 💻 About me
+
+Software Engineer with 4+ years of experience building production software across mobile, web, backend, and cloud — with a primary focus on **React Native**.
+
+- 📱 **Software Developer at [Wylo](https://wyloapp.com/)** — primary owner of mobile for a SaaS platform serving **200+ brands**
+- 🏗️ Played a major role migrating Wylo's production app to the **React Native New Architecture**
+- 🏷️ Maintain a **white-label React Native codebase** — multiple iOS targets/schemes and Android product flavors, shipped to the App Store and Google Play
+- ☁️ Production deployments and Linux infrastructure on **AWS** (Nginx, troubleshooting)
+- 🤖 Introducing **AI-assisted engineering workflows** across the team
+- 📍 New Delhi, India · remote (IST)
+
+> Most of my day-to-day work lives in private company repositories, so the contribution graph here only shows part of it.
+> The combined GitLab + GitHub activity is on **[hkumar.dev](https://hkumar.dev/?view=v3)**.
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Selected work
+
+- **[Wylo](https://wyloapp.com/)** — community SaaS platform for 200+ brands. One React Native codebase ships separately branded iOS and Android apps; New Architecture migration; React + Redux web app scaled to **50,000+ active users**.
+- **[Dineary](https://dineary.com/)** — restaurant discovery & review app, built as a freelance React Native developer. React Native + Expo, React Native Maps and Google Places (clustered map search, filters), push notifications, auth, and end-to-end App Store / Google Play delivery.
+
+---
+
+### 🛠 Tech stack
 
 #### Mobile
 ![React Native](https://img.shields.io/badge/React%20Native-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-05122A?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![iOS](https://img.shields.io/badge/iOS-05122A?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)
 
-#### Frontend
+#### Web & backend
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-#### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-05122A?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-05122A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-#### Tooling
-![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+#### Cloud & delivery
+![AWS](https://img.shields.io/badge/AWS-05122A?style=for-the-badge&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Nginx](https://img.shields.io/badge/Nginx-05122A?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-05122A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Vite](https://img.shields.io/badge/Vite-05122A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Linux](https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Xcode](https://img.shields.io/badge/Xcode-05122A?style=for-the-badge&logo=xcode&logoColor=147EFB)
 
 ---
 
-### 🚀 Selected Work
-- **Wylo — Mobile App (React Native)**: shipped iOS + Android, built 0→1, migrated to RN New Architecture  
-  Link: https://wyloapp.com/
+### 📬 Get in touch
 
-- **Wylo — SaaS Web Platform (Full-stack)**: React/Redux + Node, scaled to **50k+ active users**, supported **200+ brands**  
-  Link: https://wyloapp.com/
-
-- **Dineary — Restaurant discovery (React Native)**: Google Places/Maps, discovery + ratings + reviews (beta)  
-  Link: https://dineary.com/
-
----
-
-### 👻 Connect with me
-- Portfolio: https://hkumar.is-a.dev/
-- LinkedIn: https://www.linkedin.com/in/hkumardev/
-- Instagram: https://instagram.com/hkumar.dev
-- Twitter: https://x.com/hkumarDev
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hkrobotics&show_icons=true&theme=dark&locale=en" alt="hkrobotics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkrobotics&theme=dark" alt="hkrobotics">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hkrobotics&color=ff69b4" alt="Profile Views">
-</p>
+The quickest way is **[LinkedIn](https://www.linkedin.com/in/hkumardev/)**, or the contact section on **[hkumar.dev](https://hkumar.dev/about/#contact)**.
