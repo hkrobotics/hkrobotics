@@ -26,7 +26,7 @@ Software Engineer with 4+ years of experience building production software acros
 Most of my day-to-day work lives in private company repositories on GitLab, so GitHub's own graph only shows part of it. Here's the combined picture, updated daily:
 
 <p align="center">
-  <a href="https://hkumar.dev/?view=v3">
+  <a href="https://hkumar.dev/monitor/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://hkumar.dev/contributions.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://hkumar.dev/contributions-light.svg">
